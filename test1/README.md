@@ -83,14 +83,14 @@
 
 ### 3. 程序框图
 
-![程序框图](.\PIC\程序框图.png)
+![程序框图](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/test1/PIC/程序框图.png)
 
 ### 4. 各种非法情况的正确处理结果
 
 存在数据异常的情况：
 
-![结果_1](.\PIC\结果_1.png)
+![结果_1](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/test1/PIC/结果_1.png)
 
 存在列数不同的情况：
 
-![结果_2](.\PIC\结果_2.png)
+![结果_2](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/test1/PIC/结果_2.png)

@@ -17,7 +17,7 @@
 
 Confusion matrix
 
-![confuse_matrix](.\PIC\confuse_matrix.png)
+![confuse_matrix](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/final_assignment/PIC/confuse_matrix.png)
 
 从上述矩阵中可得到每个计算得到的簇i与真簇j之间的对应关系，即满足以下两个条件：
 
@@ -28,35 +28,35 @@ Confusion matrix
 
 1.2 **质量度量：**
 
-![质量度量](.\PIC\质量度量.png)
+![质量度量](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/final_assignment/PIC/质量度量.png)
 
 #### 设计描述
 
 类图如下所示：
 
-![类图](.\PIC\类图.png)
+![类图](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/final_assignment/PIC/类图.png)
 
 功能A:
 
-![序列图_A](.\PIC\序列图_A.png)
+![序列图_A](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/final_assignment/PIC/序列图_A.png)
 
 功能B：
 
-![序列图_B](.\PIC\序列图_B.png)
+![序列图_B](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/final_assignment/PIC/序列图_B.png)
 
 功能C：
 
-![序列图_C](.\PIC\序列图_C.png)
+![序列图_C](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/final_assignment/PIC/序列图_C.png)
 
 功能D：
 
-![序列图_D](.\PIC\序列图_D.png)
+![序列图_D](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/final_assignment/PIC/序列图_D.png)
 
 #### 调用描述
 
 调用树
 
-![调用图](.\PIC\调用图.png)
+![调用图](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/final_assignment/PIC/调用图.png)
 
 #### 主控代码
 
@@ -158,24 +158,24 @@ out_dir='out_load'
 
 当在规范化时随机运行A时，一部分结果如下：
 
-![结果_A_1](.\PIC\结果_A_1.png)
+![结果_A_1](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/final_assignment/PIC/结果_A_1.png)
 
 数据装载结果如下，这里默认选择标签是类标的那组：
 
-![结果_A_2](.\PIC\结果_A_2.png)
+![结果_A_2](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/final_assignment/PIC/结果_A_2.png)
 
-![结果_A_3](.\PIC\结果_A_3.png)
+![结果_A_3](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/final_assignment/PIC/结果_A_3.png)
 
 规范化运行完成后，直接进行k-means聚类，其中标颜色的是数量最多的类。
 
 当在规范化时随机运行B时，结果如下：
 
-![结果_B_1](.\PIC\结果_B_1.png)
+![结果_B_1](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/final_assignment/PIC/结果_B_1.png)
 
 数据装载结果和上图相同
 
 随机选择了n个文件，这里默认时选择标签是日期的那组，合并结果如下：
 
-![结果_B_2](.\PIC\结果_B_2.png)
+![结果_B_2](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/final_assignment/PIC/结果_B_2.png)
 
 由于进行k-means算法的数据是实验B的结果，所以类标超过1000，运行时间很慢，这里没有显示结果

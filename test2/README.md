@@ -8,11 +8,11 @@
 
    FileCsv、FileTxt与FileFactory是依赖关系
 
-   ![类图](.\PIC\类图.png)
+   ![类图](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/test2/PIC/类图.png)
 
 2. 协作图
 
-   ![协作图](.\PIC\协作图.png)
+   ![协作图](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/test2/PIC/协作图.png)
 
 3. 为达到封装性与性能的矛盾说明
 

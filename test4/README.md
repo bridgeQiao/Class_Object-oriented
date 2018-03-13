@@ -4,17 +4,17 @@
 
 （至少覆盖：UML类图+说明、时序图（每个功能一张时序图）+说明、数据结构设计说明）。设计说明需回答做出关键的设计决定的理由或依据是什么，为什么要这样设计，并且回答以下问题：
 
-![类图](.\PIC\类图.png)
+![类图](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/test4/PIC/类图.png)
 
 其中，在Record类中含有四个规范化操作的方法未写在上面。
 
 下图是在实验一的基础上对record进行规范化后保存到文件中。
 
-![时序图_1](.\PIC\时序图_1.png)
+![时序图_1](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/test4/PIC/时序图_1.png)
 
 下面是实验二部分。
 
-![时序图_2](.\PIC\时序图_2.png)
+![时序图_2](http://github.com/bridgeQiao/Course_Object-Oriented/raw/master/test4/PIC/时序图_2.png)
 
 **数据结构设计说明：**
 
